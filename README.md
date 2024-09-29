@@ -58,48 +58,7 @@
   </tr>
 </table>
 <hr/>
-<a href="#" class="donate" style="display: inline-block;
-  margin: 20px;
-  position: relative;
-  text-decoration: none;">DONATE</a>
-<style>
-  .donate {
-  background: #00684d;
-  background: -webkit-linear-gradient(top, transparent 0%, rgba(0,0,0,0.4) 100%),
-              -webkit-linear-gradient(left, lighten(#00684d, 15%) 0%, #00684d 50%, lighten(#00684d, 15%) 100%);
-  background: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,0.4) 100%),
-              linear-gradient(to right, lighten(#00684d, 15%) 0%, #00684d 50%, lighten(#00684d, 15%) 100%);
-  background-position: 0 0;
-  background-size: 200% 100%;
-  border-radius: 4px;
-  color: #fff;
-  padding: 15px 65px 15px 15px;
-  text-shadow: 1px 1px 5px #666;
-  -webkit-transition: all 800ms;
-  transition: all 800ms;
-  
-  &:after {
-    border-left: 1px solid darken(#00684d, 5%);
-    color: darken(#00684d, 10%);
-    content: "\f004";
-    font: 20px "FontAwesome";
-    padding: 10px 0;
-    padding-left: 15px;
-    position: absolute;
-    right: 16px;
-    top: 7px;    
-    -webkit-transition: all 600ms 200ms;
-    transition: all 600ms 200ms;
-  }
-  
-  &:hover {
-    background-position: -100% 0;
-    
-    &:after {
-      border-left: 1px solid lighten(#00684d, 5%);
-      color: #fff;
-      text-shadow: 0 0 10px #000;
-    }
-  }
-}
-</style>
+<a href="https://idpay.ir/asparsa" target="_blank"><img src="./donate.png" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;"></a>
