@@ -58,7 +58,5 @@
   </tr>
 </table>
 <hr/>
-<a href="https://idpay.ir/asparsa" target="_blank"><img src="./donate.png" style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 10%;"></a>
+
+<div style="text-align: center;"><a href="https://idpay.ir/asparsa" target="_blank"><img src="./donate.png" style="width: 20%;"></a></div>
