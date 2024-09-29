@@ -39,9 +39,9 @@
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./postgresql.svg" width="48" height="48" alt="PostgreSQL" />
+        <img src="./microsoft-sql-server-logo-svgrepo-com.svg" width="48" height="48" alt="SQLServer"/>
       </a>
-      <br>PostgreSQL
+      <br>SQLServer
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
