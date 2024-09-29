@@ -61,4 +61,4 @@
 <a href="https://idpay.ir/asparsa" target="_blank"><img src="./donate.png" style="display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;"></a>
+  width: 10%;"></a>
