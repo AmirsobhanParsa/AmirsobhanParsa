@@ -1,5 +1,6 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Amirsobhan Parsa</h1>
-<br>
+<h3 align="left">🌱 - I'm currently learning C#</h3>
+<hr/>
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
